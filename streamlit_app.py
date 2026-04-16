@@ -1,6 +1,8 @@
 import streamlit as st
 
 st.set_page_config(page_title="Week-end")
+
+
 options_total = ['en Auvergne', 'dans les Cévennes', 'dans les Gorges du Verdon', 'au Cap Fréhel', 
          "à Rennes", "à La Rochelle", "à Annecy", "à Strasbourg", 'à Bruges', 'à Vienne', 
          'à Turin', 'à Prague', 'au Mont Saint Michel']
